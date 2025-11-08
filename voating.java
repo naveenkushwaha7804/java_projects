@@ -8,7 +8,7 @@ class voating {
         if ( a > 18)
             System.out.println("you are able to voting");
         else
-            System.out.println(" you are not able to voting ");
+            System.out.println(" you are not able for voting ");
     }
 }
 
